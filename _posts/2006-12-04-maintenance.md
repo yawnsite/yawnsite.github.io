@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Need public game servers"
+title:  "Scheduled maintenance"
 author: tziek
 ---
 Tomorrow, December 5th, we are planning to do some maintenance release on the server. Please expect some downtime from 7PM to 11PM CET. 
