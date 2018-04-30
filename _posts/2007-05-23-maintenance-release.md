@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maintenance release - new YAWn! client available"
+title:  "Maintenance client release"
 author: tziek
 ---
 It was finally time for a maintenance release: our YAWn website and services are updated with small tweaks and changes. 
