@@ -45,15 +45,15 @@ defaults:
     seo:
       type: "WebPage"
 - scope:
-    path: _pages
-    type: pages
+    path: _history
+    type: history
   values:
     layout: page
     sectionid: page
 
 collections:
-  pages:
-    permalink: /:collection/:path/
+  history:
+    permalink: /:history/:path/
     output: true
   docs:
     permalink: /:collection/:path/

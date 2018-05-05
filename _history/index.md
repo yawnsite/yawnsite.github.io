@@ -1,7 +1,6 @@
 ---
 title: History
-permalink: /pages/home/
-redirect_from: /pages/index.html
+permalink: /history
 ---
 
 <div class="item">
@@ -361,7 +360,7 @@ redirect_from: /pages/index.html
   <div class="details">
     <div>
       <h1>The end.</h1>
-      <p>We no longer are urged to keep the lights on. Let's wrap up and say goodbye. Goodbye! Thanks all!</p>
+      <p>We no longer are urged to keep the lights on. Let's wrap up and say goodbye. Goodbye! <a href="{{ "/blog/2018/05/05/retirement/" | prepend: site.baseurl }}">Thanks all!</a></p>
     </div>
   </div>
 </div>
